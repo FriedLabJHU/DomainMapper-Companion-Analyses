@@ -1,2 +1,4 @@
 # DomainMapper-Companion-Analyses
-High-through structural analyses using AlphaFold for the DomainMapper Manuscript
+High-throughput structural analyses using AlphaFold for the DomainMapper Manuscript
+
+Details coming soon.
